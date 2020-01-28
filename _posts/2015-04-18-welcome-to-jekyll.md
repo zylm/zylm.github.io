@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2020-04-18T14:25:52-05:00
 author: Mei Li
-categories: Jekyll
+categories: Test
 tags:	jekyll welcome
 cover:  "/assets/instacode.png"
 ---
